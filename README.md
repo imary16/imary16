@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mary 🌻
+### Hi there 👋 I'm Mary 🌺
 I'm a chemical engineer with passion for data science 🤓 I like to solve problems and be creative 🌸 I love challenges and constantly learning 👩🏻‍💻
 
 - 🔭 I’m currently working on Machine Learning and Deep Learning.
